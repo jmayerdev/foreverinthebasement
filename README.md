@@ -1,4 +1,4 @@
-**|||||||| Welcome to Forever in the Basement, a Minecraft server I (Johnyams) am hosting on my personal homelab. ||||||||**
+**Welcome to Forever in the Basement, a Minecraft server I (Johnyams) am hosting on my personal homelab.**
 
 Forever in the Basement is a 24/7 "vanilla" Minecraft server that I would like to keep hosting for years to come. The mods I am installing do not affect the core gameplay; instead, they aim to make the vanilla experience prettier and just more fun to play.
 

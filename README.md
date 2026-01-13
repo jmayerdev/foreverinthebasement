@@ -47,7 +47,7 @@ ESTIMATED: 5 MINUTES</p>**
 	5. Make sure "Client" is selected (default).
 	6. Minecraft Version: 1.21.11
 	7. Loader Version: 0.18.4
-	8. Launcher Location: C:\Users\$YOURUSER\AppData\Roaming\.minecraft (default).
+	8. Launcher Location: C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft (default).
 	9. Make sure "Create Profile" is checked.
 	10. Make sure Minecraft Launcher is not open in the background.
 	11. Click "Install"
@@ -57,7 +57,7 @@ ESTIMATED: 5 MINUTES</p>**
 3. Extract & move files to your .minecraft folder:
 
 	1. Extract all contents of this zip file if you haven't already.
-	2. Open C:\Users\$YOURUSER\AppData\Roaming\.minecraft
+	2. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft
 	3. Make sure your ~/.minecraft/mods folder is empty before copying anything over.
 	4. Copy all contents from this .minecraft folder into your .minecraft directory.
 

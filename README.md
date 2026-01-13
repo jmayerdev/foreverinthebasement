@@ -36,7 +36,7 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 **<p align="center">DONT WORRY! YOU NEED TO DO VERY LITTLE TO GET THIS UP AND RUNNING SMOOTHLY (I DID IT FOR YOU!)
 ESTIMATED: 5 MINUTES</p>**
 
-<p align="center">If you know what you're doing, you can install these mods with whatever launcher you prefer. Otherwise:</p>
+<p align="center">If you know what you're doing, you can install these mods with whatever launcher you prefer. You will still need the pre-generated world file for Voxy to work. Otherwise:</p>
 
 1. Install Fabric:
 

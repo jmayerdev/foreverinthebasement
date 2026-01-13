@@ -24,8 +24,8 @@ Voxy adds LODs to Minecraft. You can see extremely far. The LODs are rendered cl
 
 On the server, I set a square world border & pre-generated all chunks 16,000 blocks wide (8,000 block radius from spawn). This means you cannot travel past X & Y: 8000 to -8000. This is for server performance, Voxy, and to allow future Minecraft content to generate outside of the border. I can edit this border later, but this is the starting point for practicality.
 
-The Nether's world border is set to 10,000 blocks wide (5,000 radius). If you portal from the Nether outside of X & Y +/- 1000, you will end up at a world border.
-The End has a world border of 10,000 blocks wide (5,000 radius).
+The Nether's world border is set to 8,000 blocks wide (4,000 radius). If you portal from the Nether outside of X & Y +/- 1000, you will end up at a world border.
+The End has a world border of 8,000 blocks wide (4,000 radius).
 
 The seed I chose for the Minecraft world should contain all current biomes within this range. With Voxy, you can just look for the biome from the sky!
 

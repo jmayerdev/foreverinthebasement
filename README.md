@@ -58,7 +58,7 @@ ESTIMATED: 5 MINUTES</p>**
 
 	1. Extract all contents of this zip file if you haven't already.
 	2. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft
-	3. Make sure your ~/.minecraft/mods folder is empty before copying anything over.
+	3. Make sure your ~\\.minecraft\mods folder is empty before copying anything over.
 	4. Copy all contents from this .minecraft folder into your .minecraft directory.
 
 

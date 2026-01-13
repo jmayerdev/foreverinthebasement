@@ -1,24 +1,21 @@
-**Welcome to Forever in the Basement, a Minecraft server I (Johnyams) am hosting on my personal homelab.**
+<h1 align="center">Welcome to Forever in the Basement, a Minecraft server I (Johnyams) am hosting on my personal homelab.</h1>
 
 Forever in the Basement is a 24/7 "vanilla" Minecraft server that I would like to keep hosting for years to come. The mods I am installing do not affect the core gameplay; instead, they aim to make the vanilla experience prettier and just more fun to play.
 
 These steps will install a modded Fabric installation to your Minecraft Launcher. These mods are required for Voxy (far render distance mod) and Simple Voice Chat. I also included some sound overhaul mods and resource packs I think improve vanilla's experience. You can edit / disable any of these mods in the in-game mod menu.
 
 This installs: (on 1.21.11)
+<ul>
+<li>Fabric API, Cloth Config API, Mod Menu,</li> 
+<li>Sodium, Iris,</li> 
+<li>Voxy, Simple Voice Chat,</li> 
+<li>Sound Physics Remastered, Prescence Footsteps, Ambient Sounds, CreativeCore,</li>
+<li>EMF, ETF, Continuity, FreshAnimations, Ultimacraft, Complementary Unbound, Proton</li>
 
-Fabric API, Cloth Config API, Mod Menu, 
-Sodium, Iris, 
-Voxy, Simple Voice Chat, 
-Sound Physics Remastered, Prescence Footsteps, Ambient Sounds, CreativeCore,
-EMF, ETF, Continuity, FreshAnimations, Ultimacraft, Complementary Unbound, Proton
+<li>as well as a pre-generated world file required for Voxy.</li>
+</ul>
 
-as well as a pre-generated world file required for Voxy.
-
-**DONT WORRY! YOU NEED TO DO VERY LITTLE TO GET THIS UP AND RUNNING SMOOTHLY (I DID IT FOR YOU!)
-ESTIMATED: 5 MINUTES
-**
-
-**World Explanation: Skip to INSTALLATION STEPS if you don't care!**
+<h2 align="center">World Explanation: Skip to Installation Steps if you don't care!</h2>
 
 
 Voxy adds LODs to Minecraft. You can see extremely far. The LODs are rendered client-side, meaning you cannot see other players or changes from other players until you visit them within the "real" render distance (10 chunks). I wish this was something I could improve, but for now Voxy is a client-side mod only.
@@ -32,10 +29,12 @@ The seed I chose for the Minecraft world should contain all current biomes withi
 
 Additionally: this adds Simple Voice Chat, which enables proximity voice chat in-game. The proximity chat is further enhanced with Sound Physics Remastered, which allows for echoes in caves and other fun effects.
 
+<h2 align="center">Installation Steps</h2>
 
-**||||||||||||||||  INSTALLATION STEPS: ETA 5 MINS  ||||||||||||||||**
+**<p align="center">DONT WORRY! YOU NEED TO DO VERY LITTLE TO GET THIS UP AND RUNNING SMOOTHLY (I DID IT FOR YOU!)
+ESTIMATED: 5 MINUTES</p>**
 
-If you know what you're doing, you can install these mods with whatever launcher you prefer. Otherwise:
+<p align="center">If you know what you're doing, you can install these mods with whatever launcher you prefer. Otherwise:</p>
 
 1. Install Fabric:
 
@@ -61,7 +60,7 @@ If you know what you're doing, you can install these mods with whatever launcher
 	4. Copy all contents from this .minecraft folder into your .minecraft directory.
 
 
-**|||||||||||||||| That's it for files! ||||||||||||||||**
+<h2 align="center">That's it for files!</h2>
 
 
 4. Setup Simple Voice Chat in-game:
@@ -91,4 +90,5 @@ If you know what you're doing, you can install these mods with whatever launcher
 	2. Select & click Apply.
 	3. I also included a modified version of the Complementary Unbound shader pack. This shader is not officially supported for Voxy, but I like it. Feel free to try it out, but it may cause some visual bugs with distant terrain.
 
-THATS IT! Find a mountain, look around, and have fun!
+<h3 align="center">THATS IT! Find a mountain, look around, and have fun!</h3>
+<p align="center">Please report any issues, lag, or suggestions to Johnyams on Discord, or openly to #minecraft-chatroom</p>

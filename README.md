@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Forever in the Basement, a Minecraft server I (Johnyams) am hosting on my personal homelab.</h1>
 
-Forever in the Basement is a 24/7 "vanilla" Minecraft server that I would like to keep hosting for years to come. The mods I am installing do not affect the core gameplay; instead, they aim to make the vanilla experience prettier and just more fun to play.
+Forever in the Basement is a 24/7 "vanilla" Minecraft server that I would like to keep hosting for as long as possible. The mods I am installing do not affect the core gameplay; instead, they aim to make the vanilla experience prettier and more fun to play.
 
 These steps will install a modded Fabric installation to your Minecraft Launcher. These mods are required for Voxy (far render distance mod) and Simple Voice Chat (proximity voice chat). I also included some sound overhaul mods and resource packs I think improve vanilla's experience. You can edit / disable any of these mods in the in-game mod menu.
 

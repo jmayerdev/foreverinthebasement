@@ -74,7 +74,7 @@ ESTIMATED: 5 MINUTES</p>**
 
 	1. In the server chat, type: /voxy import world "Forever in the Basement Voxy/"
 		(when the options appear, use your arrow keys to select the world, then press tab to confirm)
-	2. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes.
+	2. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes, as it loads LODs for over 1 million chunks.
 	3. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them. 
 
 6. Enable Resource Packs:

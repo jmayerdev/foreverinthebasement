@@ -89,6 +89,7 @@ ESTIMATED: 5 MINUTES</p>**
 		3. Fresh Animations
 		4. FA All Extensions
   		5. FA Player
+    3. When finished, the resource packs should appear in the list in reverse-order to above.
 
 7. Enable Shaders: Use proton-voxy-support.zip
 

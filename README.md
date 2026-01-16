@@ -20,7 +20,7 @@ This installs: (on 1.21.11)
 <h2 align="center">World Explanation: Skip to Installation Steps if you don't care!</h2>
 
 
-Voxy adds LODs to Minecraft. You can see extremely far. The LODs are rendered client-side, meaning you cannot see other players or changes from other players until you visit them within the "real" render distance (10 chunks). I wish this was something I could improve, but for now Voxy is a client-side mod only.
+Voxy adds LODs to Minecraft. You can see extremely far with little impact to performance. The LODs are rendered client-side, meaning you cannot see other players or changes from other players until you visit them within the "real" render distance (10 chunks). I wish this was something I could improve, but for now Voxy is a client-side mod only.
 
 On the server, I set a square world border & pre-generated all chunks 16,000 blocks wide (8,000 block radius from spawn). This means you cannot travel past X & Y: 8000 to -8000. This is for server performance, Voxy, and to allow future Minecraft content to generate outside of the border. I can edit this border later, but this is the starting point for practicality.
 

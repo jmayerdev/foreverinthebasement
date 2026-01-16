@@ -81,16 +81,20 @@ ESTIMATED: 5 MINUTES</p>**
 	
 	1. Go to Options > Resource Packs
 	2. Enable, in order:
-		1. Ultimacraft
-		2. Fresh Animations
-		3. FA All Extensions
-	   Ultimacraft should be on the bottom of the list, followed by Fresh Animations, then FA All Extensions.
+		1. Vanilla Mashup
+  		2. Round Trees (ignore compatability warning)
+  		3. Better Leaves
+  		4. Ubobtrusive Weather (ignore compatability warning)
+  		5. Gentler Weather Sounds
+		3. Fresh Animations
+		4. FA All Extensions
+  		5. FA Player
 
 7. Enable Shaders: Use proton-voxy-support.zip
 
 	1. In the pause menu, go to: Options > Video Settings > Shader Packs > photon-voxy-support.zip
 	2. Select & click Apply.
-	3. I also included a modified version of the Complementary Unbound shader pack. This shader is not officially supported for Voxy, but I like it. Feel free to try it out, but it may cause some visual bugs with distant terrain.
+ 	3. Press K in-game to quickly enable or disable shaders.
 
 <h3 align="center">THATS IT! Find a mountain, look around, and have fun!</h3>
 <p align="center">Please report any issues, lag, or suggestions to Johnyams on Discord, or openly to #minecraft-chatroom</p>

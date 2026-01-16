@@ -90,7 +90,7 @@ ESTIMATED: 5 MINUTES</p>**
 		3. Fresh Animations
 		4. FA All Extensions
   		5. FA Player
-    3. When finished, the resource packs should appear in the list in reverse-order to above. These are just my preference, disable and packs you add your own, it does not matter (but the order of the packs does).
+    3. When finished, the resource packs should appear in the list in reverse-order to above. These are just my preference, you can disable any packs or add your own, it does not matter (but the order of the packs does).
 
 7. Enable Shaders: Use proton-voxy-support.zip
 

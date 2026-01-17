@@ -77,7 +77,11 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	3. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them.
  	4. If you experience large cubes (LODs not rendering correctly), simply restart Minecraft.
  	5. Voxy's default "render" distance is 128 chunks. You can edit this in Options > Video Settings > Voxy > Rendering > Render distance. This is hardware 	   dependent. My sweet spot appears to be 1024 chuncks. Yours may be higher or lower, the max is 2048 chunks!
- 	6. Do not join or play the singleplayer world, as this may cause conflicts in the future. 
+ 	6. Do not join or play the singleplayer world, as this may cause conflicts in the future.
+For the Nether and the End:
+    7. You must load the LODs in the Nether and the End separately.
+    	1. For the Nether, type: /voxy import world "Forever in the Basement Voxy/DIM-1"
+        2. For the End, type: /voxy import world "Forever in the Basement Voxy/DIM1"
 
 6. Enable Resource Packs:
 	

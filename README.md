@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Forever in the Basement, a Minecraft server I (Johnyams) am hosting on my personal homelab.</h1>
+<h1 align="center">Welcome to Forever in the Basement, a Minecraft server I (Johnyam) am hosting on my personal homelab.</h1>
 
 Forever in the Basement is a 24/7 "vanilla" Minecraft server that I would like to keep hosting for as long as possible. The mods I am installing do not affect the core gameplay; instead, they aim to make the vanilla experience prettier and more fun to play.
 

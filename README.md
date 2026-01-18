@@ -57,14 +57,17 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	10. Make sure Minecraft Launcher is not open in the background.
 	11. Click "Install"
 
-2. Download the "Forever-in-the-Basement-Config.zip" from the GitHub page. **The file is large due to the pre-generated world file.**
+2. Download the "Forever-in-the-Basement-Config.zip" from the GitHub page. (Code > Download zip)
+3. Download the world file from my Google Drive link: 
 
-3. Extract & move files to your .minecraft folder:
+4. Extract & move files to your .minecraft folder:
 
 	1. Extract all contents of this zip file if you haven't already.
-	2. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft
-	3. Make sure your ~\\.minecraft\mods folder is empty before copying anything over.
-	4. Copy all contents from this .minecraft folder into your .minecraft directory.
+ 	2. Extract the contents of "FITB Voxy World File.zip"
+	3. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft
+	4. Make sure your ~\\.minecraft\mods folder is empty before copying anything over.
+	5. Copy all contents from this .minecraft folder into your .minecraft directory.
+ 	6. Copy all contents from the "FITB Voxy World File" into your .minecraft directory.
 
 
 <h2 align="center">That's it for files!</h2>

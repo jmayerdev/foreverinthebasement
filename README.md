@@ -57,7 +57,7 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	10. Make sure Minecraft Launcher is not open in the background.
 	11. Click "Install"
 
-2. Download the "Forever-in-the-Basement-Config.zip" from the GitHub page. (Code > Download zip)
+2. Download the "foreverinthebasement-main.zip" from the GitHub page. (Code > Download ZIP)
 3. Download the world file from my Google Drive link: 
 
 4. Extract & move files to your .minecraft folder:

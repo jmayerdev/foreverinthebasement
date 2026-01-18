@@ -8,13 +8,19 @@ _Note:_  You do not **need** to install any of these mods to play on the server.
 
 This installs: (on 1.21.11)
 <ul>
-<li>Fabric API, Cloth Config API, Mod Menu,</li> 
-<li>Sodium, Iris,</li> 
-<li>Voxy, Simple Voice Chat,</li> 
-<li>Sound Physics Remastered, Prescence Footsteps, Ambient Sounds, CreativeCore,</li>
-<li>EMF, ETF, Continuity, FreshAnimations, Ultimacraft, Complementary Unbound, Proton</li>
+	<li>Mod Menu,</li> 
+	<li>Sodium, Iris,</li> 
+	<li>Voxy, Simple Voice Chat,</li> 
+	<li>Sound Physics Remastered, Prescence Footsteps, Ambient Sounds, WaveyCapes, LambdaBetterGrass, Shoulder Surfing, </li>
+	<li>EMF, ETF, Continuity, Proton Shaders, FallingLeaves</li>
+	<li>FreshAnimations, Vanilla Mashup, Round Trees, Better Leaves</li>
+	<li>Fabric API, Cloth Config API, ForgeConfig API, CreativeCore, EntityCulling, CullLeaves</li>	
+	<li>Pre-generated world file required for Voxy</li>
+</ul>
 
-<li>as well as a pre-generated world file required for Voxy.</li>
+Server-Side Mods:
+<ul>
+	<li>Chunky, Simple Voice Chat, Lithium</li>
 </ul>
 
 <h2 align="center">World Explanation: Skip to Installation Steps if you don't care!</h2>
@@ -70,16 +76,15 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	2. Press V to setup and edit Simple Voice Chat. 
 
 5. Setup Voxy:
+	1. In the server chat, type:
+	2. 		/voxy import world "Forever in the Basement Voxy/"
+	3. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes, as it loads LODs for over 1 million chunks. Try not to open or close any programs during this time, as it can be resource-intensive until it finishes.
+	4. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them.
+    5. If you experience large cubes (LODs not rendering correctly), simply restart Minecraft.
+ 	6. Voxy's default "render" distance is 128 chunks. You can edit this in Options > Video Settings > Voxy > Rendering > Render distance. This is hardware 	   dependent. My sweet spot appears to be 1024 chuncks. Yours may be higher or lower, the max is 2048 chunks!
+ 	7. Do not join or play the singleplayer world, as this may cause conflicts in the future.
 
-	1. In the server chat, type: **```/voxy import world "Forever in the Basement Voxy/"```**
-		(copy & paste -- or -- when the options appear, use your arrow keys to select the world, then press tab to confirm)
-	2. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes, as it loads LODs for over 1 million chunks. Try not to open or close any programs during this time, as it can be resource-intensive until it finishes.
-	3. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them.
-    4. If you experience large cubes (LODs not rendering correctly), simply restart Minecraft.
- 	5. Voxy's default "render" distance is 128 chunks. You can edit this in Options > Video Settings > Voxy > Rendering > Render distance. This is hardware 	   dependent. My sweet spot appears to be 1024 chuncks. Yours may be higher or lower, the max is 2048 chunks!
- 	6. Do not join or play the singleplayer world, as this may cause conflicts in the future.
-
-6. Enable Resource Packs:
+8. Enable Resource Packs:
 	
 	1. Go to Options > Resource Packs
 	2. Enable, in order:
@@ -93,7 +98,7 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
   		5. FA Player
     3. When finished, the resource packs should appear in the list in reverse-order to above. These are just my preference, you can disable any packs or add your own, it does not matter (but the order of the packs does).
 
-7. Enable Shaders: Use proton-voxy-support.zip
+9. Enable Shaders: Use proton-voxy-support.zip
 
 	1. In the pause menu, go to: Options > Video Settings > Shader Packs > photon-voxy-support.zip
 	2. Select & click Apply.

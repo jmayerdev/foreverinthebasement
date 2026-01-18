@@ -59,7 +59,7 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 
 2. Download the "foreverinthebasement-main.zip" from the GitHub page. (Code > Download ZIP)
 3. Download the world file from my Google Drive link (7.9gb): https://drive.google.com/file/d/1NtHjbWihnT8BWKbAXl0NzH4kYuLQpM5o/view?usp=sharing
-	4. The file is 7.9gb because the entire 16K world border is pre-generated.
+4. The file is 7.9gb because the entire 16K world border is pre-generated.
 
 5. Extract & move files to your .minecraft folder:
 

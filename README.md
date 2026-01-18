@@ -64,7 +64,7 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 
 	1. Extract all contents of this zip file if you haven't already.
  	2. Extract the contents of "FITB Voxy World File.zip"
-	3. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft
+	3. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft (press Windows key, type %appdata%, click .minecraft)
 	4. Make sure your ~\\.minecraft\mods folder is empty before copying anything over.
 	5. Copy all contents from this _foreverinthebasement-main\\.minecraft_ folder into your .minecraft directory.
  	6. Copy all contents from the _FITB Voxy World File\\.minecraft_ into your .minecraft directory.

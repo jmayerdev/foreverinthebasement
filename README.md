@@ -72,13 +72,13 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 
 <h2 align="center">That's it for files!</h2>
 
-
-4. Setup Simple Voice Chat in-game:
+4. Start Minecraft Launcher. Make sure "Fabric Loader 1.21.11" is selected on the bottom left, then click "Play"
+5. Setup Simple Voice Chat in-game:
 
 	1. Join the server.
 	2. Press V to setup and edit Simple Voice Chat. 
 
-5. Setup Voxy:
+6. Setup Voxy:
 	1. In the server chat, type:
 	2. 		/voxy import world "Forever in the Basement Voxy/"
 	3. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes, as it loads LODs for over 1 million chunks. Try not to open or close any programs during this time, as it can be resource-intensive until it finishes.

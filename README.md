@@ -8,10 +8,10 @@ _Note:_  You do not **need** to install any of these mods to play on the server.
 
 This installs: (on 1.21.11)
 <ul>
-	<li>Mod Menu,</li> 
-	<li>Sodium, Iris,</li> 
-	<li>Voxy, Simple Voice Chat,</li> 
-	<li>Sound Physics Remastered, Prescence Footsteps, Ambient Sounds, WaveyCapes, LambdaBetterGrass, Shoulder Surfing, </li>
+	<li>Mod Menu</li> 
+	<li>Sodium, Iris</li> 
+	<li>Voxy, Simple Voice Chat</li> 
+	<li>Sound Physics Remastered, Prescence Footsteps, Ambient Sounds, WaveyCapes, LambdaBetterGrass, Shoulder Surfing</li>
 	<li>EMF, ETF, Continuity, Proton Shaders, FallingLeaves</li>
 	<li>FreshAnimations, Vanilla Mashup, Round Trees, Better Leaves</li>
 	<li>Fabric API, Cloth Config API, ForgeConfig API, CreativeCore, EntityCulling, CullLeaves</li>	

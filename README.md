@@ -72,15 +72,12 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 5. Setup Voxy:
 
 	1. In the server chat, type: **```/voxy import world "Forever in the Basement Voxy/"```**
-		(when the options appear, use your arrow keys to select the world, then press tab to confirm)
+		(copy & paste -- or -- when the options appear, use your arrow keys to select the world, then press tab to confirm)
 	2. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes, as it loads LODs for over 1 million chunks. Try not to open or close any programs during this time, as it can be resource-intensive until it finishes.
-    3. You must load the LODs in the Nether and the End separately. These will load much faster. You will need to be IN the dimension for them to load properly, so come back to this later when you get there.
-    	1. While in the Nether, type: **```/voxy import world "Forever in the Basement Voxy/DIM-1"```**
-        2. While in the End, type: **```/voxy import world "Forever in the Basement Voxy/DIM1"```**
-	4. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them.
- 	5. If you experience large cubes (LODs not rendering correctly), simply restart Minecraft.
- 	6. Voxy's default "render" distance is 128 chunks. You can edit this in Options > Video Settings > Voxy > Rendering > Render distance. This is hardware 	   dependent. My sweet spot appears to be 1024 chuncks. Yours may be higher or lower, the max is 2048 chunks!
- 	7. Do not join or play the singleplayer world, as this may cause conflicts in the future.
+	3. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them.
+    4. If you experience large cubes (LODs not rendering correctly), simply restart Minecraft.
+ 	5. Voxy's default "render" distance is 128 chunks. You can edit this in Options > Video Settings > Voxy > Rendering > Render distance. This is hardware 	   dependent. My sweet spot appears to be 1024 chuncks. Yours may be higher or lower, the max is 2048 chunks!
+ 	6. Do not join or play the singleplayer world, as this may cause conflicts in the future.
 
 6. Enable Resource Packs:
 	

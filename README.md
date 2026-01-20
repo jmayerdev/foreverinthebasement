@@ -57,31 +57,35 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	10. Make sure Minecraft Launcher is not open in the background.
 	11. Click "Install"
 
-2. Download the "Forever-in-the-Basement-Config.zip" from the GitHub page. The file is large due to the pre-generated world file.
+2. Download the "foreverinthebasement-main.zip" from the GitHub page. (Code > Download ZIP)
+3. Download the world file from my Google Drive link (7.9gb): https://drive.google.com/file/d/1NtHjbWihnT8BWKbAXl0NzH4kYuLQpM5o/view?usp=sharing
+4. The file is 7.9gb because the entire 16K world border is pre-generated.
 
-3. Extract & move files to your .minecraft folder:
+5. Extract & move files to your .minecraft folder:
 
 	1. Extract all contents of this zip file if you haven't already.
-	2. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft
-	3. Make sure your ~\\.minecraft\mods folder is empty before copying anything over.
-	4. Copy all contents from this .minecraft folder into your .minecraft directory.
+ 	2. Extract the contents of "FITB Voxy World File.zip"
+	3. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft (press Windows key, type %appdata%, click .minecraft)
+	4. Make sure your ~\\.minecraft\mods folder is empty before copying anything over.
+	5. Move all contents from this _foreverinthebasement-main\\.minecraft_ folder into your .minecraft directory.
+ 	6. Move all contents from the _FITB Voxy World File\\.minecraft_ into your .minecraft directory.
 
 
 <h2 align="center">That's it for files!</h2>
 
-
-4. Setup Simple Voice Chat in-game:
+4. Start Minecraft Launcher. Make sure "Fabric Loader 1.21.11" is selected on the bottom left, then click "Play"
+5. Setup Simple Voice Chat in-game:
 
 	1. Join the server.
 	2. Press V to setup and edit Simple Voice Chat. 
 
-5. Setup Voxy:
+6. Setup Voxy:
 	1. In the server chat, type:
 	2. 		/voxy import world "Forever in the Basement Voxy/"
 	3. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes, as it loads LODs for over 1 million chunks. Try not to open or close any programs during this time, as it can be resource-intensive until it finishes.
 	4. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them.
     5. If you experience large cubes (LODs not rendering correctly), simply restart Minecraft.
- 	6. Voxy's default "render" distance is 128 chunks. You can edit this in Options > Video Settings > Voxy > Rendering > Render distance. This is hardware 	   dependent. My sweet spot appears to be 1024 chuncks. Yours may be higher or lower, the max is 2048 chunks!
+ 	6. Voxy's default "render" distance is 128 chunks. You can edit this in Options > Video Settings > Voxy > Rendering > Render distance. This is hardware 	   dependent. My sweet spot appears to be 1024 chunks. Yours may be higher or lower, the max is 2048 chunks!
  	7. Do not join or play the singleplayer world, as this may cause conflicts in the future.
 
 8. Enable Resource Packs:

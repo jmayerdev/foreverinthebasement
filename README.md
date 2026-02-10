@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Forever in the Basement, a Minecraft server I (Johnyam) am hosting on my personal homelab.</h1>
+<h1 align="center">Welcome to Forever in the Basement, a Minecraft server I (Johnams) am hosting on my personal homelab.</h1>
 
 Forever in the Basement is a 24/7 "vanilla" Minecraft server that I would like to keep hosting for as long as possible. The mods I am installing do not affect the core gameplay; instead, they aim to make the vanilla experience prettier and more fun to play.
 
@@ -107,6 +107,11 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	1. In the pause menu, go to: Options > Video Settings > Shader Packs > photon-voxy-support.zip
 	2. Select & click Apply.
  	3. Press K in-game to quickly enable or disable shaders.
+
+If Voxy is not working in the End, type this command while in the End:
+/voxy import raw "saves/Forever in the Basement Voxy/DIM1/region"
+
+
 
 <h3 align="center">THATS IT! Find a mountain, look around, and have fun!</h3>
 <p align="center">Please report any issues, lag, or suggestions to Johnyams on Discord, or openly to #minecraft-chatroom</p>

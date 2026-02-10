@@ -108,8 +108,10 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	2. Select & click Apply.
  	3. Press K in-game to quickly enable or disable shaders.
 
+
+
 If Voxy is not working in the End, type this command while in the End:
-/voxy import raw "saves/Forever in the Basement Voxy/DIM1/region"
+	**/voxy import raw "saves/Forever in the Basement Voxy/DIM1/region"**
 
 
 

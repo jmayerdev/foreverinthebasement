@@ -116,5 +116,5 @@ If Voxy is not working in the End, type this command while in the End:
 
 
 <h3 align="center">THATS IT! Find a mountain, look around, and have fun!</h3>
-<p align="center">Please report any issues, lag, or suggestions to Johnyams on Discord, or openly to #minecraft-chatroom</p>
+<p align="center">Please report any issues, lag, or suggestions to #minecraft-chatroom</p>
 <p align="center">Keep in mind this server is running off of my home internet. You will experience occasional lag spikes and high ping (when I'm downloading games!). You are connecting to a reverse-proxy VPS with WireGuard tunneling, not my home network. This server costs me less than $1/mo to host.</p>

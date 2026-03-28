@@ -80,8 +80,10 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	2. Press V to setup and edit Simple Voice Chat. 
 
 6. Setup Voxy:
-	1. In the server chat, type:
+	1. In the server chat, type: 
+	<del>
 	2. 		/voxy import world "Forever in the Basement Voxy/"
+	</del>
 	3. Wait for Voxy to import the LODs from the singleplayer world. This will take a few minutes, as it loads LODs for over 1 million chunks. Try not to open or close any programs during this time, as it can be resource-intensive until it finishes.
 	4. That's it! Do not import the LODs again in the future, as this will overwrite the LODs of anything changed while you play. If a player builds across a mountain range, you will not see it in the LODs until you visit them.
     5. If you experience large cubes (LODs not rendering correctly), simply restart Minecraft.

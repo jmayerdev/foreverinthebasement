@@ -39,7 +39,7 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 
 <h2 align="center">OUTDATED INSTALLATION. REFER TO DISCORD!</h2>
 
-**<p align="center">DONT WORRY! YOU NEED TO DO VERY LITTLE TO GET THIS UP AND RUNNING SMOOTHLY (I DID IT FOR YOU!)</p>**
+~~**<p align="center">DONT WORRY! YOU NEED TO DO VERY LITTLE TO GET THIS UP AND RUNNING SMOOTHLY (I DID IT FOR YOU!)</p>**
 
 <p align="center">If you know what you're doing, you can install these mods with whatever launcher you prefer. You will still need the pre-generated world file for Voxy to work. Otherwise:</p>
 
@@ -68,7 +68,7 @@ Additionally: this adds Simple Voice Chat, which enables proximity voice chat in
 	3. Open C:\Users\\$YOURUSER\AppData\Roaming\\.minecraft (press Windows key, type %appdata%, click .minecraft)
 	4. Make sure your ~\\.minecraft\mods folder is empty before copying anything over.
 	5. Move all contents from this _foreverinthebasement-main\\.minecraft_ folder into your .minecraft directory.
- 	6. Move all contents from the _FITB Voxy World File\\.minecraft_ into your .minecraft directory.
+ 	6. Move all contents from the _FITB Voxy World File\\.minecraft_ into your .minecraft directory.~~
 
 
 <h2 align="center">That's it for files!</h2>

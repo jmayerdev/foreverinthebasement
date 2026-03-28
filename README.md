@@ -37,7 +37,7 @@ The seed I chose for the Minecraft world should contain all current biomes withi
 
 Additionally: this adds Simple Voice Chat, which enables proximity voice chat in-game. The proximity chat is further enhanced with Sound Physics Remastered, which allows for echoes in caves and other fun effects.
 
-<h2 align="center">Installation Steps</h2>
+<h2 align="center">OUTDATED INSTALLATION. REFER TO DISCORD!</h2>
 
 **<p align="center">DONT WORRY! YOU NEED TO DO VERY LITTLE TO GET THIS UP AND RUNNING SMOOTHLY (I DID IT FOR YOU!)</p>**
 
